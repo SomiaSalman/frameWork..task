@@ -1,0 +1,8 @@
+.home{
+    background-color: #1ABC9C;
+}
+.home .line{
+    width: 80px;
+    height: 5px;
+    display: inline-block;
+}

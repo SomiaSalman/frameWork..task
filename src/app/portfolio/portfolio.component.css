@@ -1,0 +1,21 @@
+.prtfolio .line{
+    width: 80px;
+    height: 5px;
+    display: inline-block;
+}
+.prtfolio .layer{
+    position: absolute;
+    top: .2;
+    /* left: ;
+    right: ; */
+    bottom: 0;
+    width: 94.5%;
+    height: 96%;
+    background-color: var(--secondary-color);
+    opacity: 0;
+    transition: all .9s;
+
+}
+.prtfolio .layer:hover{
+    opacity: .9;
+}

@@ -1,0 +1,23 @@
+
+.mynav{
+    background-color: var(--main-color) !important;
+    color: #fff !important;
+    /* color: tomato !important; */
+    font-size: 1rem;
+
+    
+}
+.navbar-brand{
+    /* background-color: tomato; */
+    background-color: var(--main-color) !important;
+    color: #fff !important;
+
+    
+
+}
+.navbar ul li a{
+    color: #fff !important;
+}
+.active{
+    background-color: var(--secondary-color);
+}
